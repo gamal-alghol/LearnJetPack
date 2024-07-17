@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LearnJetPack</string>
+    <string name="Enter_your_Name">Enter your Name</string>
+    <string name="login">Login</string>
+    <string name="usaflag">USA Flag</string>
+    <string name="Enter_password">Enter Password</string>
+    <string name="forgetPassword">Forget Password</string>
+    <string name="fill">Fill all faields</string>
+    <string name="Good_Morning">Good Morning , %s</string>
+    <string name="we_wish_you_have_a_good_day">We wish you have a good day!</string>
+    <string name="dailyThought">Daily Thought</string>
+    <string name="mediation_3_10_min">mediation . 3-10 min</string>
+    <string name="Featured">Featured</string>
+    <string name="start">start</string>
+    <string name="pio"><![CDATA[Android Developer(JAVA&Kotlin)📱💻\nAcademic lecturer at UCAS\nAcademic lecturer at AUG\n24/10/98🎂\nIUG-IT💻👨‍💻\nGaza_Rafah🏠]]></string>
+</resources>
